@@ -1,0 +1,255 @@
+﻿body{
+	height:100%;
+}
+.aj-page{
+	height:1000px;
+	background:#272087 url(../png/page-bg.png) 49px center no-repeat;	
+}
+.aj-content{
+	position:relative;
+	height:1000px;
+	min-width:820px;
+	max-width:1600px;		
+	margin:0 auto;
+	z-index:1;
+}
+.aj-title{
+	float:left;
+	display:block;
+	width:528px;
+	height:88px;
+	margin:35px 0 0 50px;
+	font-size:0;
+	background:url(../png/left-title.png) center center no-repeat;
+}
+
+.aj-plane{
+	float:right;
+	display:block;
+	width:376px;
+	height:205px;
+	margin:15px 30px 0 0;
+	font-size:0;
+	background:url(../png/right-title.png) center center no-repeat;
+}
+
+.aj-lottery{
+	position:absolute;
+	bottom:120px;
+	left:50%;
+	display:block;
+	width:1088px;
+	height:768px;
+	margin:0 0 0 -544px;
+	font-size:0;
+	background:url(../png/content-bg.png) top center no-repeat;
+}
+
+.aj-lottery  .title{
+	margin: 332px 0 0 -48px;
+	font:bold 48px/50px microsoft yahei;
+	color:#f6e011;
+	text-align:center;
+}
+
+.aj-lottery  .list-panel{
+	display:block;
+	width:384px;
+	height:110px;
+	margin:494px 0 0 342px;
+	overflow:hidden;
+}
+
+.aj-lottery  .lists{
+	
+}
+
+.aj-lottery  .lists  .people{
+	height:110px;
+	font:bold 30px/110px microsoft yahei;
+	color:#fff;
+	text-align:center;
+}
+
+.aj-lottery  .lists  .big-name{
+	
+}
+
+.aj-lottery  .lists  .small-name{
+	margin:0 0 0 10px;
+	font-size:18px;
+}
+
+.aj-lottery  .btn-panel{
+	
+}
+
+.aj-lottery  .btn-panel .btn{
+	display:block;
+	width:160px;
+	height:55px;
+	margin:42px 0 0 456px;
+	font:bold 30px/55px microsoft yahei;
+	text-align:center;
+	color:#b0402f;
+	background:#ffc601;
+	border-bottom:5px solid #e5b201;
+}
+
+.aj-mask{
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:1000;
+	display:none;
+	width:100%;
+	height:800px;
+	padding:200px 0 0 0;
+	background:rgba(0,0,0,0.7);
+}
+
+@font-face {
+	font-family: 'fangzheng';
+	src: url(../font/fangzhenghanzhen.ttf);
+}
+
+.aj-pop{
+	display:block;
+	width:550px;
+	height:550px;
+	margin:0 auto;
+	background:url(../png/dialog.png) top center no-repeat;
+	text-align:center;
+}
+
+.aj-pop .title{
+	padding-top: 80px;
+	font:72px/100px fangzheng;
+	color:#fbf3a0;
+}
+
+.aj-pop .big-name{
+	padding-top: 60px;
+	font:72px/100px fangzheng;
+	color:#f6e011;
+}
+
+.aj-pop .small-name{
+	font:36px/60px fangzheng;
+	color:#f6e011;
+}
+
+.aj-pop .area{
+	font:30px/80px fangzheng;
+	color:#fbf3a0;
+}
+
+.aj-winner{
+	position:absolute;
+	bottom:80px;
+	left:50%;
+	width:430px;
+	height:768px;
+	margin:0 0 0 -215px;
+	font-size:14px;	
+}
+.aj-winner .line{ 
+	display:block;
+	width:430px;
+	height:95px;
+	background:url(../png/line.png) top center no-repeat;
+}
+
+.aj-winner .title{
+	font:30px/60px fangzheng;
+	color:#f6e011;
+	background:#c54a3b;
+	text-align:center;
+}
+
+.aj-winner .list-panel{
+	height: 600px;
+	padding:10px 30px 30px;
+	background:#c54a3b;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.aj-winner .lists{
+	height:100%;
+	padding:5px 0;
+	background:#b14235;
+	border-radius:10px;
+	overflow:auto;
+}
+
+.aj-winner .lists .people{
+	padding:0 20px;
+	font:18px/40px microsoft yahei;
+	color:#f6e011;
+}
+
+.aj-winner .lists .area{
+	float:right;
+	color:#fbf3a0;
+}
+.aj-winner .lists .num{}
+.aj-winner .lists .name{}
+.aj-winner .lists .name b{ 
+	padding:0 5px;
+}
+
+.aj-setting{
+	position:absolute;
+	bottom:280px;
+	right:50%;
+	width:200px;
+	height:500px;
+	margin:0 -450px 0 0;
+	font-size:14px;	
+	background:#c54a3b;
+	border-radius:10px;
+}
+
+.aj-setting .aj-input{		
+	padding:10px 0;
+}
+
+.aj-setting .aj-input .text{
+	display:block;
+	width:160px;
+	margin:0 auto;
+	padding:2px 6px;
+	font:16px/40px microsoft yahei;
+	height:40px;
+	border:0;
+	border-radius:5px;
+}
+.aj-setting .aj-input .btn{}
+.aj-setting .aj-btn,.aj-setting .aj-input .btn{
+	display:block;
+	width:120px;
+	height:35px;
+	margin:20px auto;
+	font:bold 20px/40px microsoft yahei;
+	text-align:center;
+	color:#b0402f;
+	background:#ffc601;
+	border-bottom:5px solid #e5b201;	
+}
+
+.aj-lottery  .btn-panel .btn:hover,.aj-setting .aj-btn:hover,.aj-setting .aj-input .btn:hover{
+	background:#e5b201;
+	border-bottom-color:#cea001;
+}
+
+@media screen and (max-width : 1100px) {
+	.aj-title {
+		display:none;
+	}
+}
+
+@media screen and (min-width : 1100px){
+	.aj-title {
+		display:block;
+	}
+}

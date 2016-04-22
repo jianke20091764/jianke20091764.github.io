@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+	<head>
+    	<meta charset="utf-8"  />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+    	<title>前海航交所两周年抽奖</title>
+        <link rel="stylesheet" href="./css/base.css" type="text/css">
+		<link rel="stylesheet" href="./css/style.css" type="text/css">
+    </head>
+    <body>
+    	<div class="aj-page">
+			<div class="aj-content">
+				<div class="aj-title"></div>
+				<div class="aj-plane"></div>
+				<div class="aj-lottery">
+					<div class="list-panel" item="lottery">
+						<ul class="lists" item="list">
+							<li class="people"><span class="big-name">点击抽奖开始</span><em class="small-name">...</em></li>							
+						</ul>						
+					</div>
+					<div class="btn-panel"><a item="btn" class="btn" href="#">抽奖</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="aj-mask" style="" item="mask" title="鼠标双击关闭！">
+			<div class="aj-pop">
+				<h3 class="title">恭喜中奖</h3>
+				<div item="dialog"></div>				
+			</div>
+		</div>
+        <script type="text/javascript" charset="utf-8" src="./js/sea.js"></script>
+        <script type="text/javascript">
+        	seajs.config({
+				base : './', 
+				alias : {
+					'jquery' : 'js/jquery'
+				},
+				debug : true 
+			});
+			
+			seajs.use('js/app');
+        </script>
+    </body>
+</html>
