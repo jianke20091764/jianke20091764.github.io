@@ -46,8 +46,8 @@
     ]; 
 	
     var names = [
-        {'name':'龙艳芳','telephone':'137****8170'},
         {'name':'吴伟鹏','telephone':'136****2625'},
+        {'name':'龙艳芳','telephone':'137****8170'},
         {'name':'李霞莉','telephone':'137****7000'},
         {'name':'周永斌','telephone':'158****6950'},
         {'name':'郭蒙','telephone':'137****3173'},
