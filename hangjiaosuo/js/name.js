@@ -45,7 +45,7 @@
         '今天好开心'
     ]; 
 	
-    var names = [{'name':'黎爱华','telephone':'138****8259'},
+    var names = [
         {'name':'龙艳芳','telephone':'137****8170'},
         {'name':'吴伟鹏','telephone':'136****2625'},
         {'name':'李霞莉','telephone':'137****7000'},
