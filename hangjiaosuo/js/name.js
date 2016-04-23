@@ -47,11 +47,11 @@
 	
     var names = [
         {'name':'吴伟鹏','telephone':'136****2625'},
-        {'name':'龙艳芳','telephone':'137****8170'},
-        {'name':'李霞莉','telephone':'137****7000'},
-        {'name':'孔伟康','telephone':'135****1880'},
-        {'name':'阳丽','telephone':'138****6690'},
-        {'name':'周永斌','telephone':'158****6950'},
+        {'name':'龙艳芳','telephone':'137****8170',loaded:1},
+        {'name':'李霞莉','telephone':'137****7000',loaded:1},
+        {'name':'孔伟康','telephone':'135****1880',loaded:1},
+        {'name':'阳丽','telephone':'138****6690',loaded:1},
+        {'name':'周永斌','telephone':'158****6950',loaded:1},
         {'name':'周文洁','telephone':'139****3188'},
         {'name':'李月明','telephone':'139****3389'},
         {'name':'谢芳玉','telephone':'135****2853'},
