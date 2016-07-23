@@ -47,8 +47,8 @@
 
     var names = [
         {'name':'周洁','telephone':'155****8130',loaded:0},
-        {'name':'孙文军','telephone':'159****4115',loaded:0},
-        {'name':'奚志明','telephone':'138****6640',loaded:0},
+        {'name':'孙文军','telephone':'159****4115',loaded:1},
+        {'name':'奚志明','telephone':'138****6640',loaded:1},
         {'name':'李为','telephone':'186****6677',loaded:1},
         {'name':'芦溢香','telephone':'130****7700',loaded:1},
         {'name':'王群','telephone':'186****9638',loaded:1},
