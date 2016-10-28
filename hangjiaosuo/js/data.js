@@ -25,6 +25,6 @@
 	var secondLevel = 1 ;
 	var thirdLevel = 3 ;
 
-	utils.setItem('UserLevelIndex',firseLevel);
+	utils.setItem('UserLevelIndex',thirdLevel);
 	module.exports = dataApp;
 });
