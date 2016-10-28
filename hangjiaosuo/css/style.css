@@ -3,22 +3,22 @@
 }
 .aj-page{
 	height:1000px;
-	background:#272087 url(../png/page-bg.png) 49px center no-repeat;	
+	background:#272087 url(../png/page-bg.png) 49px center no-repeat;
 }
 .aj-content{
 	position:relative;
 	height:1000px;
 	min-width:820px;
-	max-width:1600px;		
+	max-width:1600px;
 	margin:0 auto;
 	z-index:1;
 }
 .aj-title{
 	float:left;
 	display:block;
-	width:528px;
-	height:88px;
-	margin:35px 0 0 50px;
+	width:434px;
+	height:108px;
+	margin:16px 0 0 50px;
 	font-size:0;
 	background:url(../png/left-title.png) center center no-repeat;
 }
@@ -61,7 +61,7 @@
 }
 
 .aj-lottery  .lists{
-	
+
 }
 
 .aj-lottery  .lists  .people{
@@ -72,7 +72,7 @@
 }
 
 .aj-lottery  .lists  .big-name{
-	
+
 }
 
 .aj-lottery  .lists  .small-name{
@@ -81,7 +81,7 @@
 }
 
 .aj-lottery  .btn-panel{
-	
+
 }
 
 .aj-lottery  .btn-panel .btn{
@@ -151,9 +151,9 @@
 	width:430px;
 	height:768px;
 	margin:0 0 0 -215px;
-	font-size:14px;	
+	font-size:14px;
 }
-.aj-winner .line{ 
+.aj-winner .line{
 	display:block;
 	width:430px;
 	height:95px;
@@ -194,7 +194,7 @@
 }
 .aj-winner .lists .num{}
 .aj-winner .lists .name{}
-.aj-winner .lists .name b{ 
+.aj-winner .lists .name b{
 	padding:0 5px;
 }
 
@@ -205,12 +205,12 @@
 	width:200px;
 	height:500px;
 	margin:0 -450px 0 0;
-	font-size:14px;	
+	font-size:14px;
 	background:#c54a3b;
 	border-radius:10px;
 }
 
-.aj-setting .aj-input{		
+.aj-setting .aj-input{
 	padding:10px 0;
 }
 
@@ -234,7 +234,7 @@
 	text-align:center;
 	color:#b0402f;
 	background:#ffc601;
-	border-bottom:5px solid #e5b201;	
+	border-bottom:5px solid #e5b201;
 }
 
 .aj-lottery  .btn-panel .btn:hover,.aj-setting .aj-btn:hover,.aj-setting .aj-input .btn:hover{
