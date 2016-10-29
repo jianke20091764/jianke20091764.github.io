@@ -47,13 +47,8 @@
 
     var names = [
         {'name':'张靖','telephone':'159****9918',loaded:0},
-        {'name':'邱亮兴','telephone':'158****9096',loaded:0},
         {'name':'郑德风','telephone':'138****2509',loaded:0},
-        {'name':'李金晶','telephone':'139****2471',loaded:0},
-        {'name':'孔宇玮','telephone':'130****2518',loaded:0},
-        {'name':'刘霄玲','telephone':'186****5413',loaded:0},
         {'name':'曹春梅','telephone':'189****9635',loaded:0},
-        {'name':'曾一斐','telephone':'139****7255',loaded:0},
         {'name':'王超','telephone':'138****2793',loaded:0},
         {'name':'张婕','telephone':'136****8123',loaded:0},
         {'name':'王萍','telephone':'139****6915',loaded:0},
