@@ -16,33 +16,32 @@
 .aj-title{
 	float:left;
 	display:block;
-	width:434px;
-	height:108px;
-	margin:16px 0 0 50px;
+	width:445px;
+	height:43px;
+	margin:36px 0 0 50px;
 	font-size:0;
-	background:url(../png/left-title.png) center center no-repeat;
+	background:url(../png/logo.png) center center no-repeat;
 }
 
 .aj-plane{
 	float:right;
-	display:none;
-	width:376px;
-	height:205px;
-	margin:15px 30px 0 0;
+	width:358px;
+	height:145px;
+	margin:15px 4px 0 0;
 	font-size:0;
-	background:url(../png/right-title.png) center center no-repeat;
+	background:url(../png/text.png) center center no-repeat;
 }
 
 .aj-lottery{
 	position:absolute;
-	bottom:120px;
+	bottom:80px;
 	left:50%;
 	display:block;
 	width:1088px;
 	height:768px;
 	margin:0 0 0 -597px;
 	font-size:0;
-	background:url(../png/content-bg.png) top center no-repeat;
+	background:url(../png/btn.png) top center no-repeat;
 }
 
 .aj-lottery  .title{
