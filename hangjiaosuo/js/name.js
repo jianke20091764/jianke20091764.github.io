@@ -47,7 +47,7 @@
 
     var names = [
 		{'name': '凃小平', 'telephone': '139****7828', loaded: 0},
-	    {'name': '俞乐群', 'telephone': '139****6032', loaded: 0},
+	    {'name': '俞乐群', 'telephone': '139****6032', loaded: 1},
 		{'name': '火冰', 'telephone': '188****9788', loaded: 0},
 		{'name': '王琳', 'telephone': '150****2115', loaded: 1},
 	    {'name': '王寒靖', 'telephone': '189****7233', loaded: 0},
