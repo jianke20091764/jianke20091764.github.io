@@ -46,26 +46,6 @@
     ];
 
     var names = [
-		{'name': '凃小平', 'telephone': '139****7828', loaded: 0},
-	    {'name': '俞乐群', 'telephone': '139****6032', loaded: 1},
-		{'name': '火冰', 'telephone': '188****9788', loaded: 0},
-		{'name': '王琳', 'telephone': '150****2115', loaded: 1},
-	    {'name': '王寒靖', 'telephone': '189****7233', loaded: 0},
-	    {'name': '赵峰', 'telephone': '136****6258', loaded: 0},
-		{'name': '张同爽', 'telephone': '186****3696', loaded: 0},
-	    {'name': '陈惠珍', 'telephone': '189****2956', loaded: 0},
-	    {'name': '李鹏', 'telephone': '136****9402', loaded: 0},
-		{'name': '马杰鋆', 'telephone': '130****0331', loaded: 0},
-	    {'name': '陈燕', 'telephone': '130****6349', loaded: 0},
-	    {'name': '张秀攀', 'telephone': '135****6186', loaded: 0},
-	    {'name': '邵丽', 'telephone': '138****0598', loaded: 0},
-	    {'name': '刘晓霞', 'telephone': '138****9133', loaded: 0},
-	    {'name': '李军', 'telephone': '138****5549', loaded: 0},
-	    {'name': '仇少臣', 'telephone': '180****5789', loaded: 0},
-	    {'name': '王虹', 'telephone': '138****1877', loaded: 0},
-	    {'name': '周小柳', 'telephone': '186****3336', loaded: 0},
-	    {'name': '余文涓', 'telephone': '182****3040', loaded: 0},
-	    {'name': '刘宝欢', 'telephone': '170****0887', loaded: 0},
 	    {'name': '韩文龙', 'telephone': '186****8153', loaded: 0}
 	];
 
